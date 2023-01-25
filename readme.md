@@ -6,7 +6,7 @@ Give a brief overview of the project.
 
 ## Demo
 
-![GIF showing command](https://github.com/waltervoynarovsky/ci-cd-aws/blob/main/images/230125%20Gif%20for%20Nology.mp4)
+![GIF showing command](https://github.com/waltervoynarovsky/ci-cd-aws/blob/main/images/230125-Gif-for-Nology.gif)
 ​
 Research how you can create Gifs from screen recordings, demo the following:
 ​
